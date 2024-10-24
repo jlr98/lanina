@@ -1,1 +1,0 @@
-It should be noted, though, that weaker La Niña events are [linked to higher ice cover](https://www.glerl.noaa.gov/pubs/abstracts/abs2012fy.html) on the Great Lakes, which can affect lake-effect snow.

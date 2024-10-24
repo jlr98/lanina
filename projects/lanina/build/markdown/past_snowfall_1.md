@@ -1,5 +1,0 @@
-#### Snowfall
-
-The maps to the right illustrate snowfall departure for winter during all La Niña years since 1950.
-
-There have been a wide range of snowfall amounts during La Niña winters as snowfall is dependent on multiple factors including storm track. During many La Niña winters, there was localized heavy lake-effect snowfall in parts of New York, including in 11 out of the 12 weak La Niña winters. However, some southern spots such as south-central Pennsylvania, western Maryland, and West Virginia’s Eastern Panhandle tended to see below- or near-normal snowfall during many of the weak La Niña winters. According to [NOAA’s ENSO blog](https://www.climate.gov/news-features/blogs/enso/what-about-snow-during-la-ni%C3%B1a-winters), October-April snowfall during all La Niña years was generally near or above normal in northern parts of the Northeast but near or below normal in southern parts of the region. However, snowfall during weaker La Niña events tends to be near or above normal for more of the Northeast.
