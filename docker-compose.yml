@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  scrolly_generator:
+    image: scrolly_generator:1
+    command: bash
+    volumes:
+      - ./projects:/projects
+      - ./scrolly_generator_scripts:/scrolly_generator_scripts

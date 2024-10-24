@@ -1,0 +1,1 @@
+La Niña winters also tend to be snowier for lake-effect areas, especially east of Lake Ontario.

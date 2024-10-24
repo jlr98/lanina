@@ -1,0 +1,1 @@
+An La Niña develops when [sea surface temperatures are cooler than average](https://www.youtube.com/watch?v=fAvk4RXrW_E) in the equatorial Pacific for at least several months, altering tropical rainfall patterns and the global atmospheric circulation. This is important to North America because La Niña has an impact on our weather patterns, most predominantly in winter.

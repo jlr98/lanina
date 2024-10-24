@@ -1,0 +1,9 @@
+{
+  "components": [{
+    "type": "Section",
+    "html_content": [{
+      "tag": "h2",
+      "text": "No content was supplied. Please refer to the documentation to create a scrolly component."
+    }]
+  }]
+}

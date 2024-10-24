@@ -1,0 +1,1 @@
+Analysis from the [Baltimore/Washington National Weather Service](https://www.weather.gov/lwx/research_dcbalt_lanina) indicates that winter average temperatures tend to be near to slightly above normal (based on 1981-2010) during La Niña years (1950-2017) for Baltimore and Washington, D.C. Broken down by strength, the stronger the La Niña, the warmer the temperatures.

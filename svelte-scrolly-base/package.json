@@ -1,0 +1,28 @@
+{
+  "name": "scrolly-generator",
+  "version": "1.0",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-terser": "^0.4.4",
+    "chart.js": "^4.4.0",
+    "chartjs-plugin-annotation": "^3.0.1",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "chroma-js": "^2.4.2",
+    "core-js": "3",
+    "debounce": "^1.2.1",
+    "marked": "^9.1.2",
+    "postcss": "^8.4.31",
+    "rollup": "^4.1.4",
+    "rollup-plugin-svelte": "^7.1.6",
+    "sass": "^1.69.4",
+    "svelte": "^4.2.1",
+    "svelte-chartjs": "^3.1.2",
+    "svelte-preprocess": "^5.0.4"
+  }
+}

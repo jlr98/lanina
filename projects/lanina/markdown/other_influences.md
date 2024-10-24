@@ -1,0 +1,3 @@
+#### Other Influences
+
+Each La Niña is different and other factors can affect winter conditions, such pre-existing global snow cover patterns or climate variability associated with the [Arctic Oscillation](https://www.ncdc.noaa.gov/teleconnections/ao/) and [North Atlantic Oscillation](http://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml). These patterns are less able to be forecast far in advance compared to La Niña, meaning it is uncertain how much they will affect the upcoming winter. Another factor is long-term climate trends, which can overshadow the La Niña signal. In the Northeast, there is a trend toward wetter and warmer conditions.
